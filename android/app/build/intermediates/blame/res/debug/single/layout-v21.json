@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/shivali/Documents/points/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/shivali/Documents/points/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/shivali/Documents/points/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/shivali/Documents/points/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

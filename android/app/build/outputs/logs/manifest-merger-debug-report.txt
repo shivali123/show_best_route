@@ -1,0 +1,306 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [:react-native-fs] /home/shivali/Documents/points/node_modules/react-native-fs/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-image-resizer] /home/shivali/Documents/points/node_modules/react-native-image-resizer/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-maps] /home/shivali/Documents/points/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/7f8e6548785b239be74d70033b569179/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7cf957b9833f5cb17a19856f1a4ce451/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/shivali/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/df26df7ca4caa7e9435b70411225439b/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/c2c5efaab1a6a0756a6e104c51340953/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/3d0b3b3b118d83824c7887c122147b60/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7b7731ebe207760099b206c926ec977b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/02b5152e0776f79d3d509eee0cf7647a/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/3e2988e6d7ff2cc8bd237d898d33b9e5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/1dadd65f5c4f43ec1bc131e75af0d5d8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/e655cf85dd623d9668d0a65d52a456e4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/9c023b4d3d6ae0e7ee5acc23a214bedd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/490193fc6b24e636b8ab0cca19d96b19/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2274e0c38222170b8a4af7835c8d629e/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/shivali/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/0e307e75b35034d38d3e282315dd1283/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/07754b2078450dd4678f591f120b1aa7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/083fbd7c90eeb0641385959d7a804b84/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a2c8525e179736a3de597067d63c0b2f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/41b76ce40a261f362fc198b8b6e57232/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9472ea5c8f1d4028b49fe35fdd7a802e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa4e756058dba4dde7040bc58c27fa27/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fc9b2e46450fb86a3e0c8979551e6d9a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0b10ad7915829b97995101ff58fec265/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /home/shivali/Documents/points/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /home/shivali/Documents/points/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/7f8e6548785b239be74d70033b569179/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/7f8e6548785b239be74d70033b569179/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [:react-native-fs] /home/shivali/Documents/points/node_modules/react-native-fs/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-fs] /home/shivali/Documents/points/node_modules/react-native-fs/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:9:5-30:19
+MERGED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/7f8e6548785b239be74d70033b569179/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/7f8e6548785b239be74d70033b569179/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7cf957b9833f5cb17a19856f1a4ce451/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7cf957b9833f5cb17a19856f1a4ce451/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/shivali/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/df26df7ca4caa7e9435b70411225439b/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/shivali/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/df26df7ca4caa7e9435b70411225439b/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/c2c5efaab1a6a0756a6e104c51340953/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/c2c5efaab1a6a0756a6e104c51340953/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/3d0b3b3b118d83824c7887c122147b60/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/3d0b3b3b118d83824c7887c122147b60/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7b7731ebe207760099b206c926ec977b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7b7731ebe207760099b206c926ec977b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2274e0c38222170b8a4af7835c8d629e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2274e0c38222170b8a4af7835c8d629e/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/shivali/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/0e307e75b35034d38d3e282315dd1283/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/shivali/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/0e307e75b35034d38d3e282315dd1283/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/083fbd7c90eeb0641385959d7a804b84/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/083fbd7c90eeb0641385959d7a804b84/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a2c8525e179736a3de597067d63c0b2f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a2c8525e179736a3de597067d63c0b2f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/41b76ce40a261f362fc198b8b6e57232/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/41b76ce40a261f362fc198b8b6e57232/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9472ea5c8f1d4028b49fe35fdd7a802e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9472ea5c8f1d4028b49fe35fdd7a802e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa4e756058dba4dde7040bc58c27fa27/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa4e756058dba4dde7040bc58c27fa27/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fc9b2e46450fb86a3e0c8979551e6d9a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fc9b2e46450fb86a3e0c8979551e6d9a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0b10ad7915829b97995101ff58fec265/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0b10ad7915829b97995101ff58fec265/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:11:7-39
+	android:icon
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:name
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.truckmaps.MainActivity
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:16:7-25:18
+	android:label
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:windowSoftInputMode
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:19:9-79
+	android:name
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:26:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:27:7-29:71
+	android:value
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:29:13-68
+	android:name
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:28:13-58
+uses-sdk
+INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-fs] /home/shivali/Documents/points/node_modules/react-native-fs/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] /home/shivali/Documents/points/node_modules/react-native-fs/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-resizer] /home/shivali/Documents/points/node_modules/react-native-image-resizer/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-resizer] /home/shivali/Documents/points/node_modules/react-native-image-resizer/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /home/shivali/Documents/points/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /home/shivali/Documents/points/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/7f8e6548785b239be74d70033b569179/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/7f8e6548785b239be74d70033b569179/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7cf957b9833f5cb17a19856f1a4ce451/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7cf957b9833f5cb17a19856f1a4ce451/AndroidManifest.xml:17:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/shivali/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/df26df7ca4caa7e9435b70411225439b/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/shivali/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/df26df7ca4caa7e9435b70411225439b/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/c2c5efaab1a6a0756a6e104c51340953/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/c2c5efaab1a6a0756a6e104c51340953/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/3d0b3b3b118d83824c7887c122147b60/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/3d0b3b3b118d83824c7887c122147b60/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7b7731ebe207760099b206c926ec977b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7b7731ebe207760099b206c926ec977b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/02b5152e0776f79d3d509eee0cf7647a/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/02b5152e0776f79d3d509eee0cf7647a/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/3e2988e6d7ff2cc8bd237d898d33b9e5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/3e2988e6d7ff2cc8bd237d898d33b9e5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/1dadd65f5c4f43ec1bc131e75af0d5d8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/1dadd65f5c4f43ec1bc131e75af0d5d8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/e655cf85dd623d9668d0a65d52a456e4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/e655cf85dd623d9668d0a65d52a456e4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/9c023b4d3d6ae0e7ee5acc23a214bedd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/9c023b4d3d6ae0e7ee5acc23a214bedd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/490193fc6b24e636b8ab0cca19d96b19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/490193fc6b24e636b8ab0cca19d96b19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2274e0c38222170b8a4af7835c8d629e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/2274e0c38222170b8a4af7835c8d629e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/07754b2078450dd4678f591f120b1aa7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/07754b2078450dd4678f591f120b1aa7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/083fbd7c90eeb0641385959d7a804b84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/083fbd7c90eeb0641385959d7a804b84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a2c8525e179736a3de597067d63c0b2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a2c8525e179736a3de597067d63c0b2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/41b76ce40a261f362fc198b8b6e57232/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/41b76ce40a261f362fc198b8b6e57232/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9472ea5c8f1d4028b49fe35fdd7a802e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9472ea5c8f1d4028b49fe35fdd7a802e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa4e756058dba4dde7040bc58c27fa27/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa4e756058dba4dde7040bc58c27fa27/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fc9b2e46450fb86a3e0c8979551e6d9a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fc9b2e46450fb86a3e0c8979551e6d9a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0b10ad7915829b97995101ff58fec265/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0b10ad7915829b97995101ff58fec265/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /home/shivali/Documents/points/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /home/shivali/Documents/points/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7b7731ebe207760099b206c926ec977b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7b7731ebe207760099b206c926ec977b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/083fbd7c90eeb0641385959d7a804b84/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/083fbd7c90eeb0641385959d7a804b84/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a2c8525e179736a3de597067d63c0b2f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/a2c8525e179736a3de597067d63c0b2f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/41b76ce40a261f362fc198b8b6e57232/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/41b76ce40a261f362fc198b8b6e57232/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9472ea5c8f1d4028b49fe35fdd7a802e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9472ea5c8f1d4028b49fe35fdd7a802e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa4e756058dba4dde7040bc58c27fa27/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fa4e756058dba4dde7040bc58c27fa27/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fc9b2e46450fb86a3e0c8979551e6d9a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fc9b2e46450fb86a3e0c8979551e6d9a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/58bb9b59062ffa96f33c385f39ab8d5d/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7cf957b9833f5cb17a19856f1a4ce451/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7cf957b9833f5cb17a19856f1a4ce451/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7cf957b9833f5cb17a19856f1a4ce451/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7cf957b9833f5cb17a19856f1a4ce451/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/shivali/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/df26df7ca4caa7e9435b70411225439b/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/3d0b3b3b118d83824c7887c122147b60/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/shivali/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/3d0b3b3b118d83824c7887c122147b60/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/shivali/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/df26df7ca4caa7e9435b70411225439b/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/shivali/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/df26df7ca4caa7e9435b70411225439b/AndroidManifest.xml:9:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/shivali/Documents/points/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0b10ad7915829b97995101ff58fec265/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0b10ad7915829b97995101ff58fec265/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shivali/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0b10ad7915829b97995101ff58fec265/AndroidManifest.xml:26:13-58

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/shivali/Documents/points/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/shivali/Documents/points/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/shivali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5b5bb4a289a73c6bb5712de989ff160/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/shivali/Documents/points/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/shivali/Documents/points/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/shivali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95e7411185e481206b4cc346010f8d3d/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

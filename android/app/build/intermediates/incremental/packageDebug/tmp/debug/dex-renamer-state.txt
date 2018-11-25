@@ -1,0 +1,4 @@
+#Sat Nov 24 09:44:34 IST 2018
+base.0=/home/shivali/Documents/points/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

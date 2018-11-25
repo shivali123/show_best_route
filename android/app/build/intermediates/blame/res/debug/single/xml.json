@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shivali/Documents/points/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/shivali/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/7f8e6548785b239be74d70033b569179/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/shivali/Documents/points/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/shivali/Documents/points/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+    }
+]
