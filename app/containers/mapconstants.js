@@ -7,5 +7,5 @@ module.exports = {
   LATITUDE_DELTA: 0.0922,
   LONGITUDE_DELTA: 0.33 * (screen.width / screen.height),
   nextUserId: 0,
-  myApiKey: "AIzaSyC-V3J1Wz4wqgHqrqffIeZqhVM0gDfTsIg"
+  myApiKey: "AIzaSyC"
 };
